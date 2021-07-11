@@ -1,3 +1,3 @@
 # Cousera Module 2 Assignement
 
-Link : https://rishabhgithub7348.github.io/courseramodulle2/
+Link : https://varun1080.github.io/courseramodule2/
